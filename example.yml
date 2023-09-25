@@ -1,0 +1,6 @@
+epochs: 100
+lr: 0.1
+batch_size: 32
+scheduler_step_size: 1
+scheduler_gamma: 0.7
+seed: 10
